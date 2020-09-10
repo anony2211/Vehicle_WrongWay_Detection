@@ -24,7 +24,9 @@ Green - vehicle moving in correct direction
 Orange - vehicle is under observation for moving in incorrect direction
 Red- vehicle is declared to be moving in incorrect direction
 
-If training should be done from scratch upload the contents of colab folder to colaboratory along with
-vehicle_detection.ipynb and start training in colaboratory.
+### For Training in Colaboratory ###
+
+Upload the contents of colab folder 
+and start training with vehicle_detection.ipynb colab notebook.
 
 

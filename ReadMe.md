@@ -1,6 +1,6 @@
 ## IDENTIFY ROAD FLOW DIRECTION & WRONG WAY DETECTION USING DEEP LEARNING & OBJECT TRACKING ##
 
-[![WRONG WAY DETECTION YOUTUBE](https://www.youtube.com/watch?v=224_xUMf_IQ/0.jpg)](https://www.youtube.com/watch?v=224_xUMf_IQ)
+[![WRONG WAY VEHICLE DETECTION YOUTUBE](https://www.youtube.com/watch?v=224_xUMf_IQ/0.jpg)](https://www.youtube.com/watch?v=224_xUMf_IQ)
 
 Install dependencies
 

@@ -9,7 +9,7 @@ pip3 install -r requirements.txt
 
 ```
 
-To run the script and view results of test.mkv a snippet from test video NVR_ch1_main_20200207140000_20200207143000.asf
+To run the script and view results of test.mkv 
 
 ```
 python3 main.py
